@@ -1,0 +1,34 @@
+# Channels are listed in reverse priority order 
+#     `defaults` channel should be highest priority and listed last
+#     https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-channels.html#managing-channels
+# WARNING: don't add `anaconda` channel:
+#     https://github.com/conda/conda/issues/9462
+name: fastapienv
+channels:  
+  - spacy
+  - huggingface
+  - conda-forge
+  - pytorch
+  - conda-forge 
+  - defaults
+dependencies:
+  - dill
+  - fastapi
+  - huggingface
+  - joblib
+  - lxml
+  - nltk
+  - numpy
+  - pandas
+  - pip>=21.2.4
+  - python==3.9.7  # 2021 Anaconda3 python version
+  - pytorch
+  - scikit-learn
+  - scipy
+  - sentence-transformers
+  - sqlite
+  - transformers
+  - spacy
+  - torchtext
+  - pip:
+    - -r requirements.txt

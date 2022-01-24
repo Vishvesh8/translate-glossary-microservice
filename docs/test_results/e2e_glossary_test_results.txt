@@ -1,0 +1,496 @@
+Testing http://viva-btcvden.us-east-1.elasticbeanstalk.com/glossary/remote-work/.
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.20190691947937012
+time for test 0 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.21746468544006348
+time for test 1 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19924426078796387
+time for test 2 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1943206787109375
+time for test 3 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19622063636779785
+time for test 4 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.25750064849853516
+time for test 5 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19794750213623047
+time for test 6 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.20392227172851562
+time for test 7 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.23270249366760254
+time for test 8 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.21077680587768555
+time for test 9 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.37773585319519043
+time for test 10 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19100308418273926
+time for test 11 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.369858980178833
+time for test 12 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.4285125732421875
+time for test 13 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.503709077835083
+time for test 14 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.2153005599975586
+time for test 15 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19335031509399414
+time for test 16 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1942424774169922
+time for test 17 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18768572807312012
+time for test 18 with wait_time = 10 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.20964431762695312
+time for test 19 with wait_time = 10 
+total time for 20 tests with wait_time 10 = 205.16112446784973
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1943502426147461
+time for test 0 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18790936470031738
+time for test 1 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19966602325439453
+time for test 2 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19107508659362793
+time for test 3 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18828415870666504
+time for test 4 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18775606155395508
+time for test 5 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18975567817687988
+time for test 6 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18449878692626953
+time for test 7 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1885383129119873
+time for test 8 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18501996994018555
+time for test 9 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1911780834197998
+time for test 10 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1827993392944336
+time for test 11 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18656516075134277
+time for test 12 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19262242317199707
+time for test 13 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18698692321777344
+time for test 14 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1879715919494629
+time for test 15 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18850326538085938
+time for test 16 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18336176872253418
+time for test 17 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18589329719543457
+time for test 18 with wait_time = 1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1885387897491455
+time for test 19 with wait_time = 1 
+total time for 20 tests with wait_time 1 = 21.701672077178955
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18624329566955566
+time for test 0 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18637657165527344
+time for test 1 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19092559814453125
+time for test 2 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.20508790016174316
+time for test 3 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1927471160888672
+time for test 4 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18145370483398438
+time for test 5 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18257665634155273
+time for test 6 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1891648769378662
+time for test 7 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1872119903564453
+time for test 8 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18142461776733398
+time for test 9 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1810297966003418
+time for test 10 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1839902400970459
+time for test 11 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18740296363830566
+time for test 12 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1869044303894043
+time for test 13 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18502235412597656
+time for test 14 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19249701499938965
+time for test 15 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1827847957611084
+time for test 16 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18218016624450684
+time for test 17 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18266701698303223
+time for test 18 with wait_time = 0.1 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18612003326416016
+time for test 19 with wait_time = 0.1 
+total time for 20 tests with wait_time 0.1 = 3.7343058586120605
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18547916412353516
+time for test 0 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18187808990478516
+time for test 1 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.192734956741333
+time for test 2 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18765902519226074
+time for test 3 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19313931465148926
+time for test 4 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.183333158493042
+time for test 5 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1943674087524414
+time for test 6 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19784021377563477
+time for test 7 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.193253755569458
+time for test 8 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19127893447875977
+time for test 9 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.1850414276123047
+time for test 10 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18985247611999512
+time for test 11 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19190716743469238
+time for test 12 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19182276725769043
+time for test 13 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18618488311767578
+time for test 14 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.19241094589233398
+time for test 15 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18673086166381836
+time for test 16 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.20126748085021973
+time for test 17 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18849587440490723
+time for test 18 with wait_time = 0.01 
+{"original_terms":["pantalla "],"translated_terms":["screen "]}
+request time = 0.18296027183532715
+time for test 19 with wait_time = 0.01 
+total time for 20 tests with wait_time 0.01 = 3.798067331314087
+True
+total test time = 234.5773663520813
+{10: [(0.20189356803894043, <Response [200]>), (0.21742701530456543, <Response [200]>), (0.19920730590820312, <Response [200]>), (0.1942729949951172, <Response [200]>), (0.19620728492736816, <Response [200]>), (0.25746583938598633, <Response [200]>), (0.19791507720947266, <Response [200]>), (0.20390939712524414, <Response [200]>), (0.23267483711242676, <Response [200]>), (0.2107539176940918, <Response [200]>), (0.37772417068481445, <Response [200]>), (0.19098973274230957, <Response [200]>), (0.3698232173919678, <Response [200]>), (0.4284803867340088, <Response [200]>), (0.5036733150482178, <Response [200]>), (0.21526741981506348, <Response [200]>), (0.1933000087738037, <Response [200]>), (0.1941986083984375, <Response [200]>), (0.1876506805419922, <Response [200]>), (0.2096095085144043, <Response [200]>)], 1: [(0.1943378448486328, <Response [200]>), (0.18787741661071777, <Response [200]>), (0.199631929397583, <Response [200]>), (0.19106388092041016, <Response [200]>), (0.1882486343383789, <Response [200]>), (0.18772172927856445, <Response [200]>), (0.1897430419921875, <Response [200]>), (0.184462308883667, <Response [200]>), (0.18850421905517578, <Response [200]>), (0.1849818229675293, <Response [200]>), (0.19115209579467773, <Response [200]>), (0.18276619911193848, <Response [200]>), (0.18652915954589844, <Response [200]>), (0.19259953498840332, <Response [200]>), (0.18694233894348145, <Response [200]>), (0.18792414665222168, <Response [200]>), (0.18846774101257324, <Response [200]>), (0.1833481788635254, <Response [200]>), (0.18585729598999023, <Response [200]>), (0.18850445747375488, <Response [200]>)], 0.1: [(0.18620777130126953, <Response [200]>), (0.1863415241241455, <Response [200]>), (0.1909008026123047, <Response [200]>), (0.20505738258361816, <Response [200]>), (0.19272327423095703, <Response [200]>), (0.18141603469848633, <Response [200]>), (0.18253207206726074, <Response [200]>), (0.18914031982421875, <Response [200]>), (0.18717551231384277, <Response [200]>), (0.18140792846679688, <Response [200]>), (0.18101763725280762, <Response [200]>), (0.18397831916809082, <Response [200]>), (0.18739032745361328, <Response [200]>), (0.1868903636932373, <Response [200]>), (0.18500852584838867, <Response [200]>), (0.19248509407043457, <Response [200]>), (0.18277192115783691, <Response [200]>), (0.18215489387512207, <Response [200]>), (0.18261122703552246, <Response [200]>), (0.18608832359313965, <Response [200]>)], 0.01: [(0.18546724319458008, <Response [200]>), (0.18186521530151367, <Response [200]>), (0.1927022933959961, <Response [200]>), (0.1876237392425537, <Response [200]>), (0.19310307502746582, <Response [200]>), (0.18329715728759766, <Response [200]>), (0.1942448616027832, <Response [200]>), (0.19780468940734863, <Response [200]>), (0.19321703910827637, <Response [200]>), (0.19124269485473633, <Response [200]>), (0.18500494956970215, <Response [200]>), (0.1898179054260254, <Response [200]>), (0.19187068939208984, <Response [200]>), (0.1917881965637207, <Response [200]>), (0.18615102767944336, <Response [200]>), (0.19237422943115234, <Response [200]>), (0.18669462203979492, <Response [200]>), (0.20124435424804688, <Response [200]>), (0.18848276138305664, <Response [200]>), (0.18294811248779297, <Response [200]>)]}
+Testing https://staging.vivatranslate.io/glossary/remote-work/.
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.34666895866394043
+time for test 0 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.34962892532348633
+time for test 1 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3648197650909424
+time for test 2 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3594357967376709
+time for test 3 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35344719886779785
+time for test 4 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3606603145599365
+time for test 5 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3634028434753418
+time for test 6 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3572959899902344
+time for test 7 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3770442008972168
+time for test 8 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3811028003692627
+time for test 9 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3425278663635254
+time for test 10 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3490478992462158
+time for test 11 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.34885239601135254
+time for test 12 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3802828788757324
+time for test 13 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3830106258392334
+time for test 14 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37351369857788086
+time for test 15 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3656933307647705
+time for test 16 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3625824451446533
+time for test 17 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37146925926208496
+time for test 18 with wait_time = 10 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3601210117340088
+time for test 19 with wait_time = 10 
+total time for 20 tests with wait_time 10 = 207.4320809841156
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37807416915893555
+time for test 0 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.42559313774108887
+time for test 1 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36314988136291504
+time for test 2 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36719369888305664
+time for test 3 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3580777645111084
+time for test 4 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38294005393981934
+time for test 5 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3602428436279297
+time for test 6 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37685561180114746
+time for test 7 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3687708377838135
+time for test 8 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36224985122680664
+time for test 9 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.360292911529541
+time for test 10 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.361663818359375
+time for test 11 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3800368309020996
+time for test 12 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38008713722229004
+time for test 13 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38855457305908203
+time for test 14 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36115241050720215
+time for test 15 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.39713001251220703
+time for test 16 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3797605037689209
+time for test 17 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37072157859802246
+time for test 18 with wait_time = 1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37211155891418457
+time for test 19 with wait_time = 1 
+total time for 20 tests with wait_time 1 = 21.423315048217773
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3666222095489502
+time for test 0 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3753089904785156
+time for test 1 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35757994651794434
+time for test 2 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38199281692504883
+time for test 3 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36217617988586426
+time for test 4 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3663506507873535
+time for test 5 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3866386413574219
+time for test 6 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37485766410827637
+time for test 7 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3554549217224121
+time for test 8 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35982465744018555
+time for test 9 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3343179225921631
+time for test 10 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.34939074516296387
+time for test 11 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.36835670471191406
+time for test 12 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38513851165771484
+time for test 13 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3556244373321533
+time for test 14 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.38803553581237793
+time for test 15 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3631749153137207
+time for test 16 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37319231033325195
+time for test 17 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35750842094421387
+time for test 18 with wait_time = 0.1 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3632779121398926
+time for test 19 with wait_time = 0.1 
+total time for 20 tests with wait_time 0.1 = 7.326354265213013
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3720383644104004
+time for test 0 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.34994077682495117
+time for test 1 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35759639739990234
+time for test 2 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37706565856933594
+time for test 3 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35416722297668457
+time for test 4 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3375709056854248
+time for test 5 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.33394384384155273
+time for test 6 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.33893251419067383
+time for test 7 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3818356990814209
+time for test 8 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35222554206848145
+time for test 9 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35801100730895996
+time for test 10 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.37374424934387207
+time for test 11 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3573720455169678
+time for test 12 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3586859703063965
+time for test 13 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3761460781097412
+time for test 14 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.35190629959106445
+time for test 15 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.40320587158203125
+time for test 16 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3642303943634033
+time for test 17 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3528902530670166
+time for test 18 with wait_time = 0.01 
+"{\"original_terms\": [\"pantalla \"], \"translated_terms\": [\"screen \"]}"
+request time = 0.3496360778808594
+time for test 19 with wait_time = 0.01 
+total time for 20 tests with wait_time 0.01 = 7.202067852020264
+True
+total test time = 478.3144917488098
+{10: [(0.34665560722351074, <Response [200]>), (0.3495914936065674, <Response [200]>), (0.3647806644439697, <Response [200]>), (0.35939908027648926, <Response [200]>), (0.3534073829650879, <Response [200]>), (0.3606221675872803, <Response [200]>), (0.36288976669311523, <Response [200]>), (0.35725831985473633, <Response [200]>), (0.37700819969177246, <Response [200]>), (0.38106584548950195, <Response [200]>), (0.3425126075744629, <Response [200]>), (0.3484325408935547, <Response [200]>), (0.3488302230834961, <Response [200]>), (0.3801584243774414, <Response [200]>), (0.38297080993652344, <Response [200]>), (0.3734760284423828, <Response [200]>), (0.3656582832336426, <Response [200]>), (0.3625459671020508, <Response [200]>), (0.3714334964752197, <Response [200]>), (0.36008143424987793, <Response [200]>)], 1: [(0.3780403137207031, <Response [200]>), (0.4255549907684326, <Response [200]>), (0.3631124496459961, <Response [200]>), (0.3671560287475586, <Response [200]>), (0.35804104804992676, <Response [200]>), (0.3829038143157959, <Response [200]>), (0.36020421981811523, <Response [200]>), (0.3768184185028076, <Response [200]>), (0.368732213973999, <Response [200]>), (0.362213134765625, <Response [200]>), (0.36027956008911133, <Response [200]>), (0.36160922050476074, <Response [200]>), (0.3800032138824463, <Response [200]>), (0.380051851272583, <Response [200]>), (0.38849806785583496, <Response [200]>), (0.36114025115966797, <Response [200]>), (0.3970949649810791, <Response [200]>), (0.37971973419189453, <Response [200]>), (0.3706858158111572, <Response [200]>), (0.3720731735229492, <Response [200]>)], 0.1: [(0.36658501625061035, <Response [200]>), (0.3752717971801758, <Response [200]>), (0.3575441837310791, <Response [200]>), (0.38198089599609375, <Response [200]>), (0.3621385097503662, <Response [200]>), (0.3663139343261719, <Response [200]>), (0.38660097122192383, <Response [200]>), (0.37482118606567383, <Response [200]>), (0.35541534423828125, <Response [200]>), (0.35981130599975586, <Response [200]>), (0.3343050479888916, <Response [200]>), (0.3493783473968506, <Response [200]>), (0.3683435916900635, <Response [200]>), (0.3850996494293213, <Response [200]>), (0.35561108589172363, <Response [200]>), (0.3879978656768799, <Response [200]>), (0.36313772201538086, <Response [200]>), (0.3726963996887207, <Response [200]>), (0.357471227645874, <Response [200]>), (0.36322784423828125, <Response [200]>)], 0.01: [(0.37200069427490234, <Response [200]>), (0.34989476203918457, <Response [200]>), (0.3575592041015625, <Response [200]>), (0.3770263195037842, <Response [200]>), (0.3541536331176758, <Response [200]>), (0.33724427223205566, <Response [200]>), (0.33393025398254395, <Response [200]>), (0.3389120101928711, <Response [200]>), (0.38179731369018555, <Response [200]>), (0.3521888256072998, <Response [200]>), (0.3579728603363037, <Response [200]>), (0.37370777130126953, <Response [200]>), (0.35735344886779785, <Response [200]>), (0.3586442470550537, <Response [200]>), (0.37610840797424316, <Response [200]>), (0.3518702983856201, <Response [200]>), (0.4031517505645752, <Response [200]>), (0.364194393157959, <Response [200]>), (0.35285139083862305, <Response [200]>), (0.34959840774536133, <Response [200]>)]}

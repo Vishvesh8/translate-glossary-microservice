@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  rabbit:
+    image: rabbitmq:latest
+
+  fastapi:
+    image: vbhat8/ldm
+    ports:
+      - 80:80
+    entrypoint: uvicorn main:router --host 0.0.0.0 --port 80
+
+  worker:
+    image: vbhat8/ldm
+    entrypoint: celery -A worker.celery_app worker --loglevel=info -c 2 -P threads
