@@ -5,11 +5,11 @@ on:
     branches: [ main ]
 
 env:
-  EB_PACKAGE_S3_BUCKET_NAME : "viva-backend-deploy-prod"
-  EB_APPLICATION_NAME       : "viva-backend-staging"
-  EB_ENVIRONMENT_NAME       : "Vivabackendprod-env"
+  EB_PACKAGE_S3_BUCKET_NAME : "vivatestbucket"
+  EB_APPLICATION_NAME       : "Translationglossarymicroservice"
+  EB_ENVIRONMENT_NAME       : "Translationglossarymicroservice-env"
   DEPLOY_PACKAGE_NAME       : "docker-compose.prod.yml"
-  DOCKER_TAG                : "vivatranslatestaging/prod"
+  DOCKER_TAG                : "vbhat8/prod1"
   AWS_REGION_NAME           : "us-east-2"
 
 
