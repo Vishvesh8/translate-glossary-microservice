@@ -13,6 +13,15 @@ from worker import qe_system
 from celery.result import AsyncResult
 import pandas as pd
 
+import pgpubsub
+engine = pgpubsub.connect(
+    database="databasename",
+    user="postgres",
+    password="12345678",
+    host="database-2.cm3iry27lqup.us-east-2.rds.amazonaws.com",
+    port='5432'
+)
+
 ####################################################
 import deepl
 translator = deepl.Translator("c4f53b7c-a0ed-8fcb-61e4-c98f2beeb57b")
@@ -539,6 +548,7 @@ def get_root():
 
 @router.post("/translate/")
 async def translate(data: translate_format):
+    pubsub.notify('translate-channel', str(data))
     if data.text == "Don John Coleman," or data.text == "Don John Coleman, ":
         return "Dear Mr. Coleman,"
     if data.text == "Me gustaria que pudiera darme mas informacion al respecto.":
@@ -570,59 +580,12 @@ async def translate(data: translate_format):
     return translated_text
 
 
-@router.post("/quality-estimation/")
-async def quality_estimation(data: qe_format):
-    result = translator.translate_text(data.translated_text, source_lang="es", target_lang="en-US")
-    refs = [[result.text]]
-
-    hyps = [data.source_text]
-    P, R, F1 = spanish_scorer.score(hyps, refs)
-
-    qe_score = float(F1.mean())
-
-    if qe_score < data.threshold:
-        paraphrased_sentences = paraphrase(data.translated_text)
-        finalized_sentences = []
-        for i in paraphrased_sentences:
-            if len(finalized_sentences) < 3:
-                result = translator.translate_text(data.translated_text, source_lang="es", target_lang="en-US")
-                refs = [[result.text]]
-
-                hyps = [data.source_text]
-                P, R, F1 = spanish_scorer.score(hyps, refs)
-                if float(F1.mean()) >= qe_score:
-                    finalized_sentences.append(i)
-        return {"qe_score": qe_score, "paraphrase": finalized_sentences}
-    else:
-        return {"qe_score": qe_score, "paraphrase": []}
-
-
-#task = qe_system.delay(data.source_text, data.translated_text)
-# return str(task.id)
-
-
-@router.post("/spelling-grammar/")
-async def sentence_correction(data: sg_format):
-    if data.text == "qsra":
-        time.sleep(2)
-        return {"corrections": ["quisiera"], "corrected text": "quisiera"}
-
-    try:
-        import language_tool_python
-        tool = language_tool_python.LanguageTool('es')
-        text = data.text
-        matches = tool.check(text)
-        corrected_text = tool.correct(text)
-
-        return {"corrections": matches[0].replacements, "corrected text": corrected_text}
-    except Exception as e:
-        return str(e)
 
 
 @router.post("/glossary/remote-work/")
 async def remote_work(data: glossary_format):
    # return remotework_model(data.text, data.target_lang)
-
+    pubsub.notify('translate-channel', str(data))
     df = pd.read_csv('remote_work.csv')
     english_terms = df['in English']
     spanish_terms = df['en español']
@@ -667,44 +630,4 @@ async def remote_work(data: glossary_format):
     return {"original_terms": original_terms, "translated_terms": translated_terms}
 
 
-@router.post("/simplify/")
-async def simplify(data: simplify_format):
-    return_value = ""
-    try:
-        return_value = sentence_simplify(data.text)
-    except Exception as e:
-        return_value = str(e)
 
-    return return_value
-
-
-@router.post("/informal-to-formal/")
-async def informal_formal(data: informal_formal_format):
-    if data.text == """Muchas gracias por tu tiempo""":
-        time.sleep(1)
-        return """Muchas gracias por su tiempo"""
-    return_value = ""
-    try:
-        return_value = informal_to_formal(data.text)
-    except Exception as e:
-        return_value = str(e)
-
-    return return_value
-
-
-@router.get('/result/{task_id}')
-async def give_result(task_id):
-    """Fetch result for given task_id"""
-    task = AsyncResult(task_id)
-    if not task.ready():
-        return "not ready"
-    result = task.get()
-    return result
-
-
-from langdetect import detect
-
-
-@router.post('/detect-language/')
-async def lang_detect(data: detect_lang_format):
-    return detect(data.text)
