@@ -1,3 +1,4 @@
+pgpubsub
 language_tool_python
 fastapi
 celery
